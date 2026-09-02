@@ -1,0 +1,64 @@
+body {
+    align-content: center;
+    justify-content: center;
+    background-color: rgb(204, 178, 105);
+    margin: 0px 0px;
+
+}
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.title{
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    color: rgba(187, 104, 10, 0.925);
+    width: 100dvw; /* isso empurra*/
+    background-color: rgb(102, 73, 10);
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    justify-content: center;
+    width: 100dvw;
+  
+}
+.perfil{
+    margin: 75px;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    gap: 2000px;
+}
+.botao{
+  border: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  cursor: pointer;
+  width: 200px;
+  height: 300px;
+  border-radius: 16px;
+}
+.buttom-poke{
+    gap: 20px;
+    display: flex;
+    cursor: pointer;
+}
+.foto{
+    width: 899px;
+    border-radius: 10%;
+    margin: 30px;
+    height: 590px;
+    display: flex;
+}
+.texto{
+    display: flex;
+    
+    
+}
+.EstrelaeNomedareceita{
+    display: flex;
+}
